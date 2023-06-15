@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Jomell-DelaPena/restaurant-website/static/css/main.a90b745c.css",
+    "main.js": "/Jomell-DelaPena/restaurant-website/static/js/main.78f7940b.js",
+    "static/media/videoBg.mp4": "/Jomell-DelaPena/restaurant-website/static/media/videoBg.77f04eeadd4440d5d89c.mp4",
+    "static/media/ourfood.jpg": "/Jomell-DelaPena/restaurant-website/static/media/ourfood.3de152e680ae5d8b4f6d.jpg",
+    "static/media/aboutpic.jpg": "/Jomell-DelaPena/restaurant-website/static/media/aboutpic.99ec1b6e1867faf1ce1e.jpg",
+    "static/media/ourcoffee.jpg": "/Jomell-DelaPena/restaurant-website/static/media/ourcoffee.ce32b517460a7f561e76.jpg",
+    "index.html": "/Jomell-DelaPena/restaurant-website/index.html",
+    "main.a90b745c.css.map": "/Jomell-DelaPena/restaurant-website/static/css/main.a90b745c.css.map",
+    "main.78f7940b.js.map": "/Jomell-DelaPena/restaurant-website/static/js/main.78f7940b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a90b745c.css",
+    "static/js/main.78f7940b.js"
+  ]
+}
